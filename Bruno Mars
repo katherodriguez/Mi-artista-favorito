@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bruno Mars</title>
+</head>
+<body>
+    <header>
+        <h1>Bruno Mars</h1>
+    </header>
+
+    <section>
+        <h2>Historia</h2>
+        <p>Peter Gene Hernandez (Honolulu, Hawái, 8 de octubre de 1985) es un cantante, 
+            compositor, productor musical y coreógrafo estadounidense, conocido como Bruno Mars.
+            Mars comenzó a crear música desde una edad muy temprana y actuó en muchos escenarios 
+            de su pueblo natal a lo largo de su niñez realizando imitaciones. 
+            Se graduó de la escuela secundaria y se mudó a Los Ángeles para proseguir con su carrera musical.
+            Después de una temporada sin éxito con Motown Records, Mars firmó con Atlantic Records en 2009. 
+            Llegó a ser reconocido como artista en solitario después de prestar su voz y haber coescrito 
+            los coros para las canciones «Nothin' on You» de B.o.B, y «Billionaire» de Travie McCoy. 
+            También coescribió los éxitos internacionales «Right Round» de Flo Rida, «Wavin' Flag» de K'naan 
+            y «Fuck You!» de Cee Lo Green. El 4 de octubre de 2010 lanzó su álbum de estudio debut, 
+            Doo-Wops & Hooligans. Logró colocar en la mejor posición de Billboard Hot 100 los sencillos 
+            «Just the Way You Are» y «Grenade». Su segundo álbum fue Unorthodox Jukebox, con el que logró 
+            llegar a la primera posición de la misma lista con las canciones «Locked out of Heaven» y 
+            «When I Was Your Man». Ha llegado a vender más de 170 millones de copias a nivel mundial 
+            lo que lo hace uno de los artistas con más ventas. Además Bruno Mars cuenta con 7 de sus 
+            canciones dentro de los sencillos más vendidos del mundo.</p>
+    </section>
+
+    <section>
+        <h2>Discografía</h2>
+        <ul>
+            <li>Doo-woops & Hooligans</li>
+            <li>Unorthodox Jukebox</li>
+            <li>24K Magic</li>
+        </ul>
+    </section>
+
+    <a href="https://www.brunomars.com/">Encuentra más informacion</a>
+
+    <table class="Galeria de Imagenes">
+        <tr>
+            <td>
+                <img src="https://miro.medium.com/max/875/1*K4mXbvTBbf-sSIH3d2t7rA.jpeg" alt="Bruno Mars con traje rojo">
+            </td>
+            <td>
+                <img src="https://www.elindependiente.com/wp-content/uploads/2018/06/B_London2PRess-5-copia-1440x808.jpg" alt="Bruno Mars en concierto Londres">
+            </td>
+            <td>
+                <img src="https://i.insider.com/5c2dfbff01c0ea35a01d4753?width=1100&format=jpeg&auto=webp" alt="Bruno Mars con su banda">
+            </td>
+        </tr>
+
+    </table>
+    <iframe src="https://open.spotify.com/embed/track/3w3y8KPTfNeOKPiqUTakBh" width="300" 
+    height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    
+</body>
+</html>
